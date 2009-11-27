@@ -1,0 +1,6 @@
+jQuery plugin to hint your input.
+
+Usage:
+
+	jQuery('#myPlugin').puts('This is my Default Message');
+
